@@ -63,26 +63,26 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
 **INTEGRATOR:**
   **CIRCUIT DIAGRAM**
-
+<img width="1600" height="1122" alt="image" src="https://github.com/user-attachments/assets/7282abe6-51d4-4cf8-94ae-5f3f373efce5" />
 
   **MODEL GRAPH:**
-
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4ec33202-52d5-405f-84ec-4f0f698ab9fb" />
 
   **TABULATION:**
- 
-
-**MODEL CALCULATION:**
+ <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/c02c7ddb-f6ac-44db-b513-0b8fdee6897e" />
+  **GRAPH**
+  <img width="1080" height="1549" alt="image" src="https://github.com/user-attachments/assets/cf1b85c9-c8dc-48ee-aab3-47d2a052a841" />
 
 **DIFFERENTIATOR:**
   **CIRCUIT DIAGRAM**
-
-
+<img width="1600" height="1135" alt="image" src="https://github.com/user-attachments/assets/4a6f9d23-eac0-4e1b-a386-d80d716a571c" />
   **MODEL GRAPH:**
-
+<img width="1600" height="1001" alt="image" src="https://github.com/user-attachments/assets/1498bfb8-8712-406c-89cc-1de7e1f51d64" />
 
   **TABULATION:**
-
- 
+<img width="1600" height="766" alt="image" src="https://github.com/user-attachments/assets/244af350-7151-481b-99ae-f0dd36c52ebc" />
+  **GRAPH**
+  <img width="1148" height="1556" alt="image" src="https://github.com/user-attachments/assets/a7d86d4b-d60a-4508-89f5-205e67abcf70" />
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -95,7 +95,13 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
   **LT SPICE**
   **CIRCUIT and Waveform**
-  
+  **INTEGRATOR**
+  <img width="1747" height="837" alt="(ADAIC) Integrator sine wave" src="https://github.com/user-attachments/assets/1cb8dfde-0ac2-4c09-a423-818cdc12b1f1" />
+  <img width="1812" height="875" alt="Screenshot 2026-08-05 152157" src="https://github.com/user-attachments/assets/ea14a9ff-b2be-4034-8011-e2e54c72a192" />
+
+  **DIFFERENTIATOR**
+  <img width="1750" height="855" alt="(ADAIC) Differentiator sine wave" src="https://github.com/user-attachments/assets/20411985-9bc9-4a24-8ffd-1f8bea7d8682" />
+  <img width="1733" height="902" alt="(ADAIC) Differentiator sq wave" src="https://github.com/user-attachments/assets/ac52eecb-aac3-4746-86ff-14cd9872db9d" />
 
 **RESULT:**
 Thus the Integrator and Differentiator are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
